@@ -26,8 +26,6 @@ This repository contains the Dockerfile for the Stable Diffusion Web UI Forge. F
 
 To add models from your local machine, use the `-v` argument to mount your local directory. 
 
-Replace `/path/to/local/models` with the actual path to your models.
-
 ## Notes
 
 - Ensure that you have Docker installed and configured to use GPU.
